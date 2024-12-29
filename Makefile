@@ -1,2 +1,2 @@
 build:
-	typst compile chaussettes-quantiques.typ
+	typst compile intrication-chaussettes.typ

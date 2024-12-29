@@ -5,3 +5,5 @@ Nous suggérons ici une réponse à une question qui hante cette partie non-nég
 Pour lire l'article (format texte): [intrication-chaussettes.typ](intrication-chaussettes.typ)
 
 Article au [format Typst](https://typst.app/), utilisant le template [Elsearticle](https://typst.app/universe/package/elsearticle/).
+
+L'ensemble du contenu de cet article est publié selon les critères de la [Licence CC0](https://creativecommons.org/publicdomain/zero/1.0/), et donc considéré comme faisant partie du Domaine Public.

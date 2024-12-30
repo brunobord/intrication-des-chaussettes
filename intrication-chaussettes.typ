@@ -12,7 +12,7 @@
       id: "bb",
     ),
   ),
-  abstract: [Nous suggérons ici une réponse à une question qui hante cette partie non-négligeable de l'humanité qui porte, lave et trie des chaussettes. Notre hypothèse pourrait bien remettre en cause certains résultats fondamentaux de la physique quantique, notamment celle concernant la taille maximale des particules soumises aux lois de l'infiniment petit. En effet, nous proposons de considérer qu'une paire de chaussettes devrait être considérée comme une paire de particules intriquées. Ainsi, la disparition de l'une des deux entités fige à jamais le sort de la paire. Il ne devra rester qu'une seule chaussette.],
+  abstract: [Nous suggérons ici une réponse à une question qui hante cette partie non-négligeable de l'humanité qui porte, lave et trie des chaussettes. Notre hypothèse pourrait bien remettre en cause certains résultats fondamentaux de la physique quantique, notamment celle concernant la taille maximale des particules soumises aux lois de l'infiniment petit. En effet, nous proposons de considérer une paire de chaussettes équivalente à une paire de particules intriquées. Ainsi, la disparition de l'une des deux entités fige à jamais le sort de la paire. Il ne devra rester qu'une seule chaussette.],
   keywords: ("chaussettes", "intrication", "disparition", "socks"),
   format: "preprint",
   journal: "The Fédiverse"

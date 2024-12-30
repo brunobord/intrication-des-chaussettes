@@ -3,7 +3,7 @@
 #set text(lang: "fr")
 
 #show: elsearticle.with(
-  title: "Hypothèse de l'Intrication Quantique, une tentative de réponse au grand mystère de la disparition d'une chaussette par paire.",
+  title: "Hypothèse de l'Intrication Quantique, une tentative de réponse au grand mystère de la chaussette manquante.",
   authors: (
     (
       name: "Bruno Bord",

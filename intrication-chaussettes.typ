@@ -44,7 +44,11 @@ One could imagine that particles and information could fall into these holes and
 L'explication de l'illustre Professeur Hawking présuppose l'existence de trous noirs microscopiques et virtuels.
 S'il est évidemment possible que de tels objets apparaissent à la faveur d'une fluctuation quantique suffisante, il ne nous apparaît pas raisonnable d'imaginer que ces trous noirs microscopiques disposent de suffisamment de masse pour ingérer des chaussettes, dont la masse est d'approximativement 20 grammes @poids, tandis que la masse *minimale* d'un trou noir est égale à la masse de Planck, soit $2 × 10^−8 "kg"$, ou $1,2 × 10^16 "TeV/"c^2$.
 
+Cependant, il apparaît peu probable que de tels micro-trous noirs puissent être générés à l'intérieur d'une machine à laver le linge.
+En effet, on présume par exemple que pour faire se collisionner deux particules à la longueur de Planck, il faudrait disposer d'un accélérateur de particules d'un diamètre de 1000 années-lumières.
+À titre d'exemple, le tambour de notre machine à laver familiale fait un peu moins de 60cm.
 
+Ces micro trous noirs virtuels, bien que proposés par un des plus grands cerveaux de notre temps, nous semblent être une explication trop empirique pour être probable.
 
 #bibliography(title: "Références", "refs.bib")
 

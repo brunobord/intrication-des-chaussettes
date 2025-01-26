@@ -1,4 +1,4 @@
-intrication-chaussettes.pdf: intrication-chaussettes.typ
+intrication-chaussettes.pdf: intrication-chaussettes.typ refs.bib
 	typst compile intrication-chaussettes.typ
 
 commit: intrication-chaussettes.pdf

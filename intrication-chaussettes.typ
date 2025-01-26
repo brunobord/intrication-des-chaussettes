@@ -97,23 +97,31 @@ Utilisant le principe de parcimonie, autrement appelé "rasoir d'Ockham" @ockham
 
 === Réfutation
 
-Une étude datant de 2023 recense les différents taux d'équipement électroménagers en France @ademe.
+Une étude menée par les services de R&D d'EDF et l'ADEME, datant de 2023 recense les différents taux d'équipement électroménagers en France @ademe.
 
 Il apparaît que le taux d'équipement en lave-linge était de 87%:
 
 #quote(attribution: ["5.1. Les lave-linge et les lave-linge séchants" @ademe-lave-linge], [
-En 2023, 87 % des logements sont équipés d’un appareil de lavage du linge. L’écart entre maison individuelle (91 %) et logement collectif (81 %) est sensible. Ce taux d’équipement regroupe les lave-linge et les lave-linge séchants qui pèsent pour 6 % des appareils.
+En 2023, 87 % des logements sont équipés d’un appareil de lavage du linge.
+L’écart entre maison individuelle (91 %) et logement collectif (81 %) est sensible.
+Ce taux d’équipement regroupe les lave-linge et les lave-linge séchants qui pèsent pour 6 % des appareils.
 ])
 
 Tandis que le taux d'équipement en dispositifs séchant était d'à peine 25%:
 
 #quote(attribution: ["5.2. Les sèche-linge et les lave-linge séchants" @ademe-seche-linge], [
-En 2023, 25 % des ménages français déclarent posséder un appareil de séchage du linge. Les lave-linge séchants représentent 22% de cet effectif. 13 points d’écart séparent les maisons individuelles et les logements collectifs (31 % vs 18 %).
+En 2023, 25 % des ménages français déclarent posséder un appareil de séchage du linge.
+Les lave-linge séchants représentent 22% de cet effectif.
+13 points d’écart séparent les maisons individuelles et les logements collectifs (31 % vs 18 %).
 ])
 
 Nous ne disposons pas de statistiques sur d'autres pays, mais cet exemple seul tend à montrer la rareté des appareils de type "sèche-linge" dans les foyers français par rapport à la présence écrasante des lave-linge.
 
-Or, nous disposons de témoignages directs de personnes qui perdent régulièrement des chaussettes #emph([sans pour autant disposer d'un sèche-linge]). Et si on en croit les statistiques, dans un pays industrialisé et moderne comme la France, les sèche-linge sont 3.5 fois moins nombreux que les lave-linges.
+Or, nous disposons de témoignages directs de personnes qui perdent régulièrement des chaussettes #emph([sans pour autant disposer d'un sèche-linge]).
+Et si on en croit les statistiques, dans un pays industrialisé et moderne comme la France, les sèche-linge sont 3.5 fois moins nombreux que les lave-linges.
+
+Nous en arrivons à la conclusion que le phénomène de disparition des chaussettes ne peut être imputé aux sèche-linge, puisqu'il se produit de manière uniforme dans des foyers non-équipés en dispositifs de séchage de linge.
+S'il est probable que certaines chaussettes disparaissent dans les sèche-linge, cet appareil électroménager seul ne peut expliquer l'ubituité du phénomène.
 
 #bibliography(title: "Références", "refs.bib")
 

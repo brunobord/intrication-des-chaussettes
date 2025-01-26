@@ -101,7 +101,7 @@ Une étude menée par les services de R&D d'EDF et l'ADEME, datant de 2023 recen
 
 Il apparaît que le taux d'équipement en lave-linge était de 87% :
 
-#quote(attribution: ["5.1. Les lave-linge et les lave-linge séchants" @ademe-lave-linge], [
+#quote(attribution: ["5.1. Les lave-linge et les lave-linge séchants" @ademe @ademe-lave-linge], [
 En 2023, 87 % des logements sont équipés d’un appareil de lavage du linge.
 L’écart entre maison individuelle (91 %) et logement collectif (81 %) est sensible.
 Ce taux d’équipement regroupe les lave-linge et les lave-linge séchants qui pèsent pour 6 % des appareils.
@@ -109,7 +109,7 @@ Ce taux d’équipement regroupe les lave-linge et les lave-linge séchants qui 
 
 Tandis que le taux d'équipement en dispositifs séchant était d'à peine 25% :
 
-#quote(attribution: ["5.2. Les sèche-linge et les lave-linge séchants" @ademe-seche-linge], [
+#quote(attribution: ["5.2. Les sèche-linge et les lave-linge séchants" @ademe @ademe-seche-linge], [
 En 2023, 25 % des ménages français déclarent posséder un appareil de séchage du linge.
 Les lave-linge séchants représentent 22% de cet effectif.
 13 points d’écart séparent les maisons individuelles et les logements collectifs (31 % vs 18 %).

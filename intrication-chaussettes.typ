@@ -177,6 +177,28 @@ $ "Lessive" = "Linge" + #sym.alpha + #sym.beta + "Produit nettoyant" $
 + Le linge (incluant donc la paire #sym.alpha + #sym.beta) est inséré dans le tambour du lave-linge.
 + Le produit nettoyant est ajouté dans le réceptacle idoine (en fonction des modèles de lave-linge, soit dans un bac prévu à cet effet, soit directement dans le tambour).
 + L'expérimentateur, en suivant le mode d'emploi, va fermer le tambour et choisir le programme de nettoyage ; lequel dépend de la quantité de linge, sa nature, ses couleurs, etc.
++ L'expérimentateur va appuyer sur le bouton de démarrage du lave-linge.
+
+L'événement qui suit est crucial.
+L'expérimentateur va selon toute vraisemblance se détourner du lave-linge.
+À part pour quelques regards furtifs afin de vérifier si le programme de lavage est terminé, *l'expérimentateur n'observe plus le système `Lessive + Lave-linge` et perd donc le contact visuel avec l'expérience*.
+
+XXXX: continuer ici
+
+==== Typologie des lave-linges
+
+Ce comportement survient quel que soit le type de lave-linge : à couvercle ou à hublot.
+
+Intuitivement, on pourrait penser que le fait d'avoir un hublot nous "immunise" contre les effets d'intrication, puisque l'expérimentateur peut retrouver le contact visuel avec l'expérience.
+Cependant, il nous est apparu pendant l'étude que même avec un hublot, le temps maximum passé à regarder le linge au travers du hublot était très limité, de l'ordre de quelques dizaines de secondes.
+Si une lessive dure une heure et demie (60 minutes), un temps d'observation de 30 secondes représenterait environ 0.55% du temps total de l'expérience.
+
+De plus, si le hublot augmente la visibilité sur l'ensemble `Linge + Eau + Produit nettoyant`, il ne garantit pas que la désintégration quantique de l'élément instable aura lieu dans le champ de vision de l'expérimentateur.
+Le reste du linge peut parfaitement occulter l'événement.
+
+Donc l'événement de désintégration quantique de l'élément #sym.alpha ou #sym.beta pourrait survenir à tout moment en-dehors du temps d'observation de l'expérimentateur ; et quand bien même cet événement surviendrait dans les temps d'attention, il pourrait être dans une zone masquée du lave-linge.
+
+Ces questions d'observabilité ne se posent pas dans le cas d'un lave-linge à couvercle : l'expérimentateur n'a aucune visibilité sur ce qui se passe à l'intérieur pendant toute la durée de l'expérience.
 
 #bibliography(title: "Références", "refs.bib")
 

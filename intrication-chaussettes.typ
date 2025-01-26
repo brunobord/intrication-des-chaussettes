@@ -38,6 +38,8 @@ Pour des raisons que nous développerons ultérieurement, nous pensons que ces e
 
 == Hawking
 
+=== Hypothèse
+
 #quote(attribution: [Hawking, in "The Nature of Space and Time" @hawking], [
 If information is lost in macroscopic black holes it should also be lost in processes in which microscopic, virtual black holes appear because of quantum fluctuations of the metric.
 One could imagine that particles and information could fall into these holes and get lost. Maybe that is where all those odd socks went.
@@ -56,7 +58,9 @@ Ces micro trous noirs virtuels, bien que proposés par un des plus grands cervea
 
 == Johnson
 
-Les hypothèses émises par Johnson dans son article résultent de son expérience personnelle.
+=== Hypothèse(s)
+
+Johnson émet dans son article une série d'hypothèses qui résultent de son expérience personnelle.
 
 #quote(attribution: ["On Science: The Case of the Missing Socks" @johnson], [
 All my life, for as far back as I can remember, I have been losing socks.
@@ -124,7 +128,7 @@ Or, nous disposons de témoignages directs de personnes qui perdent régulièrem
 Nous en arrivons à la conclusion que le phénomène de disparition des chaussettes ne peut être imputé aux sèche-linge, puisqu'il se produit de manière uniforme dans des foyers non-équipés en dispositifs de séchage de linge.
 S'il est probable que certaines chaussettes disparaissent dans les sèche-linge, cet appareil électroménager seul ne peut expliquer l'ubiquité du phénomène.
 
-= Hypothèse
+= Notre hypothèse
 
 == Lexique
 
@@ -132,10 +136,47 @@ S'il est probable que certaines chaussettes disparaissent dans les sèche-linge,
 / Chaussette: Élément de vêtemement pour le pied, s'arrêtant à mi-jambe et qui se porte à l'intérieur d'une chaussure.
   Il est généralement admis que ces éléments sont interchangeables.
   Pour les besoins de notre article, la chaussette pour le pied gauche est indiscernable de celle pour le pied droit.
-/ Paire (de chaussettes): On dit que deux (2) chaussettes forment une paire lorsque ces éléments portent les mêmes caractéristiques : poids, taille, type de tissu, motifs, couleurs…
-/ lave-linge: Appareil électro-ménager domestique permettant de laver le linge, alimenté à l’électricité.
-  Le procédé de nettoyage généralement employé consiste à mélanger eau chaude (entre 300°K et 360°K environ) et lessive en une succession de cycles durant lesquels le linge est mis en rotation à l'intérieur d'un tambour.
+/ Célibataire: Se dit d'une chaussette ayant appartenu à une paire, avant qu'un des deux élements de la paire disparaisse.
+/ Expérimentateur: Personne qui va opérer le lave-linge.
+/ Lessive: Ensemble des éléments qui seront intégrés dans le lave-linge.
+/ Linge: Toute pièce de tissu (torchons, serviettes — ou vêtement) destinée à être lavée.
+/ Lave-linge: Appareil électro-ménager domestique permettant de laver le linge, alimenté à l’électricité.
+  Le procédé de nettoyage généralement employé consiste à immerger le linge dans un mélange d'eau chaude (entre 300°K et 360°K environ) et de lessive.
+  Puis, ce mélange est agité par des cycles successifs où le linge est mis en rotation à l'intérieur d'un tambour.
   Les vitesses de rotation du tambour oscillent en fonction de plusieurs paramètres, mais il est raisonnable de penser que ces rotations n'excèdent jamais les 3500 tours/minute.
+  C'est durant la phase d'essorage que le tambour tourne le plus vite.
+/ Paire (de chaussettes): On dit que deux (2) chaussettes forment une paire lorsque ces éléments portent les mêmes caractéristiques : poids, taille, type de tissu, motifs, couleurs…
+
+== Proposition
+
+=== Conditions préliminaires
+
+Soit une paire de chaussettes que nous nommerons : #sym.alpha + #sym.beta.
+
+Avant d'être intégrées dans une machine à laver le linge, chaque chaussette a des caractéristiques tout à fait normales.
+Même si au niveau microscopique elles sont légèrement dissemblables, nous pouvons considérer qu'elles ont des propriétés identiques.
+
+Elles sont composées de milliards d'atomes suffisamment nombreux et suffisamment proches pour que chacun de ces atomes voie sa fonction d'onde parfaitement réduite et que ces particules sont dans un état stable.
+Nous sommes bien à l'échelle macroscopique et la matière s'y comporte indépendamment des résultats de la mécanique quantique.
+Il n'y a ni intrication, ni superposition d'état.
+Les chaussettes n'ont pas la possibilité de traverser le tambour par effet tunnel.
+
+Sauf expérience particulière, la paire de chaussettes sus-nommée est mélangée dans une quantité variable de linge divers avant d'être déposée dans le tambour du lave-linge.
+
+À noter que ces autres éléments peuvent être :
+
+- d'autres paires de chaussettes,
+- d'autres chaussettes célibataires.
+
+Pour les besoins de notre proposition, nous n'observerons pas les effets d'intrication quantique sur ces éléments, en nous concentrant sur la paire #sym.alpha + #sym.beta.
+
+$ "Lessive" = "Linge" + #sym.alpha + #sym.beta + "Produit nettoyant" $
+
+=== Séquence des événements
+
++ Le linge (incluant donc la paire #sym.alpha + #sym.beta) est inséré dans le tambour du lave-linge.
++ Le produit nettoyant est ajouté dans le réceptacle idoine (en fonction des modèles de lave-linge, soit dans un bac prévu à cet effet, soit directement dans le tambour).
++ L'expérimentateur, en suivant le mode d'emploi, va fermer le tambour et choisir le programme de nettoyage ; lequel dépend de la quantité de linge, sa nature, ses couleurs, etc.
 
 #bibliography(title: "Références", "refs.bib")
 

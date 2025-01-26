@@ -22,6 +22,7 @@
 
 #set quote(block: true)
 #show quote: set text(lang: "en", style: "oblique")
+#set terms(separator: [~: ])
 
 = Introduction
 
@@ -122,6 +123,19 @@ Or, nous disposons de témoignages directs de personnes qui perdent régulièrem
 
 Nous en arrivons à la conclusion que le phénomène de disparition des chaussettes ne peut être imputé aux sèche-linge, puisqu'il se produit de manière uniforme dans des foyers non-équipés en dispositifs de séchage de linge.
 S'il est probable que certaines chaussettes disparaissent dans les sèche-linge, cet appareil électroménager seul ne peut expliquer l'ubiquité du phénomène.
+
+= Hypothèse
+
+== Lexique
+
+
+/ Chaussette: Élément de vêtemement pour le pied, s'arrêtant à mi-jambe et qui se porte à l'intérieur d'une chaussure.
+  Il est généralement admis que ces éléments sont interchangeables.
+  Pour les besoins de notre article, la chaussette pour le pied gauche est indiscernable de celle pour le pied droit.
+/ Paire (de chaussettes): On dit que deux (2) chaussettes forment une paire lorsque ces éléments portent les mêmes caractéristiques : poids, taille, type de tissu, motifs, couleurs…
+/ lave-linge: Appareil électro-ménager domestique permettant de laver le linge, alimenté à l’électricité.
+  Le procédé de nettoyage généralement employé consiste à mélanger eau chaude (entre 300°K et 360°K environ) et lessive en une succession de cycles durant lesquels le linge est mis en rotation à l'intérieur d'un tambour.
+  Les vitesses de rotation du tambour oscillent en fonction de plusieurs paramètres, mais il est raisonnable de penser que ces rotations n'excèdent jamais les 3500 tours/minute.
 
 #bibliography(title: "Références", "refs.bib")
 
